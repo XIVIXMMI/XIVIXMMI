@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# PM2 ecosystem file (nếu có thông tin nhạy cảm)
+ecosystem.config.js
+ecosystem.config.json
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# OS / IDE junk
+.DS_Store
+.vscode/
+.idea/
