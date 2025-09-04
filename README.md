@@ -42,7 +42,6 @@ Long-term, I aim to grow into **DevOps / Site Reliability Engineering (SRE)**, b
 - 📍 Ho Chi Minh City, Vietnam  
 - 📧 Email: [nguyen.le.programmer@gmail.com](mailto:nguyen.le.programmer@gmail.com)  
 - 💻 GitHub: [XIVIXMMI](https://github.com/XIVIXMMI)  
-- 📜 [JavaScript Certification – HackerRank](https://s.net.vn/926B)  
 
 ---
 ⭐️ Feel free to check out my repositories and connect with me!
