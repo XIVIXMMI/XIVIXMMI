@@ -32,6 +32,18 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XIVIXMMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIVIXMMI&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XIVIXMMI&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🎯 Career Goal
 To develop as a **Backend Developer** in fintech/banking, focusing on **security, scalability, and stability**.  
 Long-term, I aim to grow into **DevOps / Site Reliability Engineering (SRE)**, building intelligent monitoring and automation systems for high-availability platforms.  
