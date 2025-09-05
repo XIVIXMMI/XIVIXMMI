@@ -1,25 +1,36 @@
-# 👋 Hi, I'm Lê Thái Khôi Nguyên
+# 👋 Hi, I'm Nguyen Le
 
-🎯 **Back-End Developer** | Java | Spring Boot | Node.js  
+� **Back-End Developer** | Java | Spring Boot | Node.js  
 💡 Passionate about building secure, scalable backend systems and reliable system operations.  
 🌱 Currently working at **Eximbank** as a System Operation & Monitoring Officer (24/7).  
 
 ---
-
-## 🚀 About Me
-- 🎓 Bachelor of Computer Science – VJIT, HUTECH (Graduated Dec 2023)  
-- 🏆 3rd place – VJIT Innovation Challenge 2023  
-- 🔧 Experienced in backend development, monitoring, and system operations  
-- 🌐 Languages: English & Japanese (basic communication & reading technical docs)  
-
----
-
 ## 🛠️ Tech Stack
-- **Languages**: Java, Node.js, JavaScript  
-- **Frameworks**: Spring Boot, Express.js  
-- **Databases**: PostgreSQL, MongoDB, Redis  
-- **Monitoring & Ops**: Nagios, Grafana, Docker, Linux, Nix  
-- **Other Tools**: Git, Vim, Tmux  
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<p align="center">
+<!-- Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+</p>
 
 ---
 
