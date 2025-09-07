@@ -34,15 +34,6 @@
 
 ---
 
-## 📌 Highlight Projects
-- **[Task Management API](https://github.com/XIVIXMMI/task-management-api)**  
-  Multi-level task management system with Spring Boot, JWT auth, JSONB, Redis caching, and clean architecture.  
-
-- **Callcenter Gateway (Outsourcing Project)**  
-  API gateway for passenger transportation customer service centers, integrating multiple partners (Vexere, AnVui, BMS) with Node.js, Express, MongoDB, Redis, and Docker.  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XIVIXMMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
