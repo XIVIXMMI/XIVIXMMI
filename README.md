@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Nguyen Le
 
-� **Back-End Developer** | Java | Spring Boot | Node.js  
-💡 Passionate about building secure, scalable backend systems and reliable system operations.  
-🌱 Currently working at **Eximbank** as a System Operation & Monitoring Officer (24/7).  
+**Back-End Developer** | Java | Spring Boot | Node.js  
+Passionate about building secure, scalable backend systems and reliable system operations.  
 
 ---
 ## 🛠️ Tech Stack
@@ -33,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XIVIXMMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIVIXMMI&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
@@ -45,13 +44,13 @@
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 To develop as a **Backend Developer** in fintech/banking, focusing on **security, scalability, and stability**.  
 Long-term, I aim to grow into **DevOps / Site Reliability Engineering (SRE)**, building intelligent monitoring and automation systems for high-availability platforms.  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - 📍 Ho Chi Minh City, Vietnam  
 - 📧 Email: [nguyen.le.programmer@gmail.com](mailto:nguyen.le.programmer@gmail.com)  
 - 💻 GitHub: [XIVIXMMI](https://github.com/XIVIXMMI)  
