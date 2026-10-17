@@ -1,25 +1,7 @@
-```text
-                                    xivixmmi@github ──────────────────────────────────
-
-          :---===+=::.  .           OS: ................................ macOS, Ubuntu
-        -=++=--:-=----:..           Uptime: ................................. 25 years
-      .-===----::::-:-:..::.        Host: ....................... Ho Chi Minh City, VN
-     .:----:-::-----:::-:--:        Kernel: ....................... Back-End Developer
-    .:=-.:..:-::--:::.====:=.       Editor: ............................. Vim, VS Code
-    :==-::-=-=+++-.-+:-===:-:
-    .-=-===++##=-:=#%*:-=-:         Languages.Programming: .............. Java, Python
-    +%*++#@@@@+*#%@@@@%=-+#%+       Languages.Real: .... Vietnamese, English, Japanese
-    *@%#%@@%%%@@@@@%%%%@###@*       Hobbies: ..................................... Gym
-     +%%##@@@@@@@@@@@@@%###+.
-         :%@@@@@@@@@@@@-            Stack.Backend: .............. Spring Boot, FastAPI
-          :*%@@@@@@@@*-             Stack.Database: .................. Postgres, Redis
-             =+*##*+=:              Stack.Tools: .................. Docker, Linux, Git
-            =%##**#%+%=
-      .--.:.*@@@@@@%%@%...-:        — Goal ───────────────────────────────────────────
-     *%@+..:=@#=*#+:-%*.: +@%#-     Now: ................. Backend @ fintech / banking
-   .#@@@=-:--=   :....---.-@@@%:    Next: ............................... DevOps / SRE
-   *@@@@=:.:::::: :::-::..:@@@@#
-  =@@@@@-.:::.. .....:..   %@@@@+   — Contact ────────────────────────────────────────
-                                    Email: ............ nguyen.le.programmer@gmail.com
-                                    LinkedIn: ....................... in/nguyen-le-dev
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Nguyen Le neofetch-style profile card" src="dark_mode.svg">
+  </picture>
+</p>
